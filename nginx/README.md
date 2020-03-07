@@ -17,8 +17,8 @@ OpenSSL version: OpenSSL 1.1.0k  28 May 2019
 # 使い方
 
 ```
-$ git clone https://github.com/yatta47/docker-compose-nginx.git
-$ cd docker-compose-nginx
+$ git clone https://github.com/yatta47/docker-samples.git
+$ cd nginx
 $ docker-compose up
 ```
 
